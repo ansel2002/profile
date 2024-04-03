@@ -95,7 +95,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ansel2002/ansel2002/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
 
 ###
 
